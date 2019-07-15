@@ -4,5 +4,6 @@ chromedriver.exe
 /out
 /target
 /export
+/test
 properties.properties
 .gitignore
