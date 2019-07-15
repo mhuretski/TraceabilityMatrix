@@ -5,4 +5,5 @@ chromedriver.exe
 /target
 /export
 /src/test
+properties.properties
 .gitignore
