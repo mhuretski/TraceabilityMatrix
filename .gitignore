@@ -4,3 +4,5 @@ chromedriver.exe
 /out
 /target
 /export
+properties.properties
+.gitignore
